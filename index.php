@@ -10,8 +10,8 @@
     <header>
         <nav class="site-nav" aria-label="Navigation principale">
                 <ul>
-                    <li><a>Accueil</a></li>
-                    <li><a>Contactez-moi</a></li>
+                    <li><a href="#section1">Accueil</a></li>
+                    <li><a href="#section2">Contactez-moi</a></li>
                 </ul>
         </nav>
     </header>
