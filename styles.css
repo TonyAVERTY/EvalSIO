@@ -50,6 +50,7 @@ main > section {
 #section1 p {
     flex: 1;
     margin: 0;
+    background-color: cyan;
 }
 
 #section1 p:first-of-type {
@@ -94,6 +95,14 @@ main > section {
 
 #section2 button:hover {
     background-color: #003d99;
+}
+
+form {
+    background-color: deeppink;
+}
+
+#form-message {
+    background-color: lightpink;
 }
 .site-nav {
     background-color: blue;
